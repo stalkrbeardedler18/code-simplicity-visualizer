@@ -1,7 +1,7 @@
 {
   "name": "code-simplicity-visualizer",
   "version": "1.0.0",
-  "description": "A web application that visually analyzes code complexity metrics and suggests simplifications for improving code quality.",
+  "description": "A web app that analyzes code complexity and suggests simplifications.",
   "main": "index.js",
   "scripts": {
     "start": "node server/index.js",
