@@ -1,4 +1,6 @@
 # Ignore Node.js dependencies and build artifacts
 # Prevent tracking of local environment dependencies and output files
+# Ignore local installation of modules
 node_modules/
+# Ignore output files from the build process
 build/
